@@ -31,7 +31,7 @@ SIMPLE TAPI PASTI!!!!
 #installation
 $pkg install ssh
 $pkg install git
-$git clone https://com.github/gobeds007/gobprof
+$git clone https://github.com/gobeds007/gobprof
 $cd /data/data/com.termux/files/usr/etc
 $nano profile
 ketik di paling bawah code code!!
