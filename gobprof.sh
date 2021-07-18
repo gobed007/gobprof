@@ -41,4 +41,5 @@ echo -e "\e[1m\e[36m                       | |    | |     | | \e[0m"
 echo -e "\e[1m\e[91m                       \ /    \ /     \ / \e[0m"
 echo -e "\e[1m\e[32m                        V      V       V  \e[0m"
 
-cd
+echo -e "\e[1m\e[31mKamu Tidak Akan Mampu Mengembalikan Waktu Walaupun Satu Detik!"!
+echo -e "\e[1m\e[31mMaka Dari Itu,Gunakanlah Waktumu Dengan Baik!!."
