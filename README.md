@@ -24,7 +24,7 @@ SIMPLE TAPI PASTI!!!!
                         V      V       V
 
 #installation
-$pkg install ssh
+$pkg install zsh
 $pkg install git
 $pkg install nano
 $git clone https://github.com/gobed007/gobprof
